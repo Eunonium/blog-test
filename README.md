@@ -14,7 +14,7 @@
 - 学会编程
 
 ## 编程
-我的第一行代码
+我的第一行 `javascript`代码
 ```javascript
 console.log('hello');
 ```
